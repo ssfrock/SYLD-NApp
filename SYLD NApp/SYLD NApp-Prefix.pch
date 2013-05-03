@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SYLD NApp' target in the 'SYLD NApp' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
